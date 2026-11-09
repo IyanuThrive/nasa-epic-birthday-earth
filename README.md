@@ -11,9 +11,9 @@
 one date and turns the response into a list of dictionaries, one per photo>
 - <get_user_birthday()>: <Asks for user birthday and makes sure the
 date format is valid, and the birthday is after 2015>
-- <get_random_image(photos)>: <Takes a list of photos from the dictionary
+- <get_random_image(photos)>: Takes a list of photos from the dictionary
 and selects one at random to output the image>
-- <display_image_url(image)>: <Takes a file name of a photo and then
+- <display_image_url(image)>: Takes a file name of a photo and then
 displays the url for said photo>
 
 ## How to run
