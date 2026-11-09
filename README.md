@@ -24,3 +24,5 @@ displays the url for said photo>
 
 ## Built with
 Python, requests, datetime, random and the NASA EPIC API
+
+<img width="1400" height="1115" alt="EPIC_Function_Diagram (1)" src="https://github.com/user-attachments/assets/dca2475e-d99d-4224-9512-a822df0ff031" />
